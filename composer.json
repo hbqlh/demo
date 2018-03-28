@@ -1,0 +1,14 @@
+{
+    "name": "hbqlh/demo",
+    "description": "a test composer project",
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "祁立华",
+            "email": "459465872@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
